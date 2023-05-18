@@ -46,16 +46,13 @@ Technical responsibilities and achievements:
 - **Designed, developed, and maintained** robust and efficient APIs for **customer onboarding journeys** using **Ruby on Rails**. This effort enhanced the **user experience** and increased **customer retention**.
 - Initiated and implemented an improvement to Clark's **A/B experiments framework**. This **eliminated the need for developer intevention** for configuration changes and **empowered product managers** to make direct changes from the admin panel. The result was a significant **acceleration in release cycles**.
     - Maintained **backwards compatibility** to ensure seamless transition and **zero-disruption** user experience.
-- Fixed a critical bug in **Master Watcher**, a **Golang** script that imports GitHub commits to a Google sheet, **aiding the QA team** in prioritizing flaky tests.
 
 <div class='experience-type'>
 Ownership and Collaboration:
 </div>
 
 - Served as a member of the **core group** in the team. Regularly discussed **team priorities**, participated in deciding **team OKRs**, and tracked the progress of ongoing user stories.
-- Took **ownership** of multiple features and bugs, ensuring their completion. This involved proper **task breakdown**, making **reasonable trade-offs**, planning upcoming maintenance, and **collaborating** with product managers and other development teams.
 - **Strategised the transition** of the live chat service "Hermes" from NodeJS to Golang. **Collaborated** with the infrastructure team to manage services using **Kubernetes** and the sales team for optimal timing of migration. Ensured a seamless and **invisible migration** for customers who were online during the transition.
-- Oversaw the removal of Facebook login from the application based on a **cost-benefit analysis**. This process involved making modifications to our **EmberJS frontend** and a rigorous testing of the **password reset flow** to ensure a smooth transition for existing users.
 
 <hr class='short-line' />
 
@@ -71,16 +68,11 @@ Technical responsibilities and achievements:
     - The system could also handle different token types and their unique attributes.
 
 <div class='experience-type'>
-Leadership and Mentoring:
+Leadership, Mentoring and Client Relationships:
 </div>
 
 - **Mentored a junior developer**, guiding him in mastering **Ruby on Rails**, leading to significant progress in his technical skills.
 - **Led a team** of 10+ developers, conducting daily scrum meetings, performing code reviews, overseeing project onboarding, and managing resources.
-
-<div class='experience-type'>
-Client management:
-</div>
-
 - Acted as the **primary point of contact** for clients, providing technical insights to facilitate optimal product development and mutual profitability.
 
 <hr class='short-line' />
@@ -94,7 +86,6 @@ Technical responsibilities and achievements:
 - Worked as the sole **backend developer** and was responsible for the **design, development, deployment and maintenance** of the full stack application using **Ruby on Rails**, **PostgreSQL**, **HTML**, **CSS**, **Javascript**, **CoffeeScript**, etc.
 - Implemented a real-time, relevance-based **search suggestion** feature using **Redis**, **jQuery**, and **custom middleware**, enhancing __user experience__ and boosting __site usability__.
 - Developed "Oye", an **in-house analytics tool** integrated within the Farad Books monorepo, to track user behavior, optimize user experience, and aid in **inventory management** by understanding user preferences.
-- Streamlined daily __inventory management__ by integrating distributor email attachments (Excel files) into our system, resulting in a time savings of 20+ minutes per day and guaranteeing access to the latest data.
 
 
 <div class='experience-type'>
