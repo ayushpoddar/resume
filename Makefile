@@ -33,7 +33,7 @@ open_html: init
 weasyprint: init
 	for f in $(OUT_DIR)/*.html; do \
 		FILE_NAME=`basename $$f | sed 's/.html//g'`; \
-		FILE_NAME=`echo $${FILE_NAME}_$$(date +%d%m_%H%M)_$$(git branch --show-current)`; \
+		FILE_NAME=`echo ayush_$${FILE_NAME}_$$(date +%d%m_%H%M)_$$(git branch --show-current)`; \
 		echo $$FILE_NAME.pdf; \
 		weasyprint -q $$f $(OUT_DIR)/$$FILE_NAME.pdf; \
 	done
