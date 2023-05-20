@@ -29,7 +29,7 @@ Technical Skills
     - __Hacker__: Golang, VueJS, JavaScript, HTML, CSS, C, AWS, Kubernetes, CI/CD, x86-64 Assembly
 
 Soft Skills
-:   - Leadership, Project Planning, Mentoring, Project Ownership, Blogging
+:   - Leadership, Project Planning, Mentoring, Project Ownership, Blogging, _Firefighting_
 
 </div>
 
