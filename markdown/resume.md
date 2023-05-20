@@ -102,3 +102,13 @@ Education
 :   **Bachelor of Technology, Electrical Engineering** - Delhi Technological University, Delhi
 
     *Passed with First Class - 72.77%*
+
+Reference
+---------
+
+Krishna Swarup, <small class='text-normal'><br>_Engineering Manager,_ <br>_Clark DE_</small>
+:   - <swarooptk@gmail.com>
+    - <krishna.timmaraju@clark.de>
+    - [linkedin.com/krishnaswarup](https://www.linkedin.com/in/krishnaswarup/)
+    - +91-73389-57742
+    - +49-176-77416374
