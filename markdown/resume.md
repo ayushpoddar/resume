@@ -46,16 +46,13 @@ Technical responsibilities and achievements:
 
 - **Designed, developed, and maintained** robust and efficient APIs for both new and existing **customer onboarding journeys** using **Ruby on Rails**. This effort enhanced the **user experience** and increased **customer retention**.
 - **Accelerated** feature releases by upto **3 days** at Clark by revamping the **A/B experiments** framework, eliminating developer intervention, and enabling product managers to make direct changes, all while maintaining **backwards compatibility**.
-- Fixed a critical bug in **Master Watcher**, a **Golang** script that imports GitHub commits to a Google sheet, **aiding the QA team** in prioritizing flaky tests.
 
 <div class='experience-type'>
 Ownership and Collaboration:
 </div>
 
 - Served as a member of the **core group** in the team. Regularly discussed **team priorities**, participated in deciding **team OKRs**, and tracked the progress of ongoing user stories.
-- Took **ownership** of multiple features and bugs, ensuring their completion. This involved proper **task breakdown**, making **reasonable trade-offs**, planning upcoming maintenance, and **collaborating** with product managers and other development teams.
 - **Strategised the transition** of the live chat service "Hermes" from NodeJS to Golang, while also taking **ownership of its post-migration maintenance**. **Collaborated** with the infrastructure team to manage services using **Kubernetes** and the sales team for optimal timing of migration. Ensured a seamless and **invisible migration** for customers who were online during the transition.
-- Oversaw the removal of Facebook login from the application based on a **cost-benefit analysis**. This process involved making modifications to our **EmberJS frontend** and a rigorous testing of the **password reset flow** to ensure a smooth transition for existing users.
 
 <hr class='short-line' />
 
@@ -87,7 +84,6 @@ Technical responsibilities and achievements:
 - Worked as the sole **backend developer** and was responsible for the **design, development, deployment and maintenance** of the full stack application using **Ruby on Rails**, **PostgreSQL**, **HTML**, **CSS**, **Javascript**, **CoffeeScript**, etc.
 - Implemented a real-time, relevance-based **search suggestion** feature using **Redis**, **jQuery**, and **custom middleware**, enhancing __user experience__ and boosting __site usability__.
 - Developed "Oye", an **in-house analytics tool** integrated within the Farad Books monorepo, to track user behavior, optimize user experience, and aid in **inventory management** by understanding user preferences.
-- Streamlined daily __inventory management__ by integrating distributor email attachments (Excel files) into our system, resulting in a time savings of 20+ minutes per day and guaranteeing access to the latest data.
 
 
 <div class='experience-type'>
