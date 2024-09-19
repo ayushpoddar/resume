@@ -25,12 +25,12 @@ Skills
 <div class='list-with-margin'>
 
 Technical Skills
-:   - __Proficient__: Ruby on Rails, PostgreSQL, REST, Git, RSpec, TDD, _Debugging_
-    - __Intermediate__: MongoDB, Redis, Python
-    - __Hacker__: Golang, VueJS, JavaScript, HTML, CSS, C, AWS, Kubernetes, CI/CD, x86-64 Assembly
+:   - __Proficient__: JavaScript, Ruby on Rails, PostgreSQL, MySQL, TDD
+    - __Intermediate__: MongoDB, Redis, Python, ReactJS, AWS Services (RDS, Lambda, SQS, EC2, Eventbridge, etc.)
+    - __Familiar__: Golang, HTML, CSS, CI/CD, x86-64 Assembly
 
 Soft Skills
-:   - Leadership, Adaptibility, Mentoring, Project Ownership, Blogging, _Firefighting_
+:   - Leadership, Adaptibility, Mentoring, Technical strategy, Blogging, _Firefighting_
 
 </div>
 
@@ -38,24 +38,50 @@ Soft Skills
 Professional Experience
 ----------
 
+### Staff Software Engineer - [Loop Subscriptions](https://www.loopwork.co/)<br><small class='text-normal'>_August 2023 to Present_</small>
+
+<div class='experience-type'>
+Key Projects and Achievements:
+</div>
+
+- Developed a Prepaid Subscriptions feature (PrepaidV2) that combines advance payments with the flexibility of normal subscriptions:
+  - Engineered an **abstraction layer** between Loop's merchant interface and Shopify's selling plans to maintain subscription flexibility.
+  - Generated **~$300,000** in merchant revenue within 5 months of release.
+  - Awarded **Mountain Mover** title for project success and impact.
+
+- Designed and implemented an Alert Center for proactive issue detection and alerting:
+  - Helped merchants fix over 1,000 subscription contracts with data inconsistencies.
+  - Created a highly **extendible interface** to accommodate various alert types.
+
+- Led a critical overhaul of the Bulk Actions system:
+  - Transitioned from a cron-based approach to an **event-driven architecture**.
+  - Improved responsiveness and efficiency of merchant operations by upto **15 minutes** per action
+  - Executed a smooth migration with zero downtime.
+
+<div class='experience-type'>
+Leadership and Strategic Contributions:
+</div>
+
+- Mentored junior developers, setting quarterly goals - helping them improve release quality and speed.
+- Fostered collaborative decision-making between technical and product teams, encouraging critical analysis of feature requests and project scopes.
+- Champion code simplicity and readability, promoting maintainability and avoiding unnecessary abstractions in a fast-paced environment.
+
+<hr class='short-line' />
+
 ### Senior Software Engineer - [Clark, DE](https://www.clark.de/)<br><small class='text-normal'>_April 2021 to December 2022 (remote via [Toptal](https://www.toptal.com/))_</small>
 
 <div class='experience-type'>
 Technical responsibilities and achievements:
 </div>
 
-- **Designed, developed, and maintained** robust and efficient APIs for both new and existing **customer onboarding journeys** using **Ruby on Rails**. This effort enhanced the **user experience** and increased **customer retention**.
+- **Designed, developed, and maintained** robust and efficient APIs for both new and existing **customer onboarding journeys** using **Ruby on Rails**.
 - **Accelerated** feature releases by upto **3 days** at Clark by revamping the **A/B experiments** framework, eliminating developer intervention, and enabling product managers to make direct changes, all while maintaining **backwards compatibility**.
-- Fixed a critical bug in **Master Watcher**, a **Golang** script that imports GitHub commits to a Google sheet, **aiding the QA team** in prioritizing flaky tests.
 
 <div class='experience-type'>
 Ownership and Collaboration:
 </div>
 
-- Served as a member of the **core group** in the team. Regularly discussed **team priorities**, participated in deciding **team OKRs**, and tracked the progress of ongoing user stories.
-- Took **ownership** of multiple features and bugs, ensuring their completion. This involved proper **task breakdown**, making **reasonable trade-offs**, planning upcoming maintenance, and **collaborating** with product managers and other development teams.
-- **Strategised the transition** of the live chat service "Hermes" from NodeJS to Golang, while also taking **ownership of its post-migration maintenance**. **Collaborated** with the infrastructure team to manage services using **Kubernetes** and the sales team for optimal timing of migration. Ensured a seamless and **invisible migration** for customers who were online during the transition.
-- Oversaw the removal of Facebook login from the application based on a **cost-benefit analysis**. This process involved making modifications to our **EmberJS frontend** and a rigorous testing of the **password reset flow** to ensure a smooth transition for existing users.
+- **Strategised the transition** of the live chat service "Hermes" from NodeJS to Golang, while also taking **ownership of its post-migration maintenance**. **Collaborated** with the infrastructure team to manage services using **Kubernetes**. Ensured a seamless and **invisible migration** for customers who were online during the transition.
 
 <hr class='short-line' />
 
@@ -73,8 +99,6 @@ Leadership and Mentoring:
 </div>
 
 - **Mentored a junior developer**, guiding him in mastering **Ruby on Rails**, leading to significant progress in his technical skills.
-- **Led a team** of 10+ developers, conducting daily scrum meetings, performing code reviews, overseeing project onboarding, and managing resources.
-- Acted as the **primary point of contact** for clients, providing technical insights to facilitate optimal product development and mutual profitability.
 
 <hr class='short-line' />
 
@@ -87,7 +111,6 @@ Technical responsibilities and achievements:
 - Worked as the sole **backend developer** and was responsible for the **design, development, deployment and maintenance** of the full stack application using **Ruby on Rails**, **PostgreSQL**, **HTML**, **CSS**, **Javascript**, **CoffeeScript**, etc.
 - Implemented a real-time, relevance-based **search suggestion** feature using **Redis**, **jQuery**, and **custom middleware**, enhancing __user experience__ and boosting __site usability__.
 - Developed "Oye", an **in-house analytics tool** integrated within the Farad Books monorepo, to track user behavior, optimize user experience, and aid in **inventory management** by understanding user preferences.
-- Streamlined daily __inventory management__ by integrating distributor email attachments (Excel files) into our system, resulting in a time savings of 20+ minutes per day and guaranteeing access to the latest data.
 
 
 <div class='experience-type'>
@@ -95,7 +118,6 @@ Marketing Responsibilities:
 </div>
 
 - Conceptualized and implemented the __"Keep A Book"__ feature based on customer behavior analysis, enabling customers to purchase borrowed books. This initiative led to a __revenue increase of ~150%__ and a __reduction in dead inventory by around ~40%__.
-- Engaged in __strategic partnerships__ with book clubs and upcoming publishers for mutual publicity, conducted online ads, distributed promotional materials, and initiated offline marketing campaigns to boost brand visibility and customer acquisition.
 
 Education
 ---------
