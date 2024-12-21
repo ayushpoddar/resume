@@ -1,0 +1,101 @@
+# yaml-language-server: $schema=https://github.com/sinaatalay/rendercv/blob/main/schema.json?raw=true
+
+cv:
+  name: Chahal Mitruka
+  email: cmitruka69@gmail.com
+  phone: tel:+91-9641140781
+  social_networks:
+    - network: LinkedIn
+      username: chahal-mitruka-8a806117a
+  sections:
+    summary:
+      - Interior designer with 6 years' experience transitioning to UI/UX. Applying spatial design expertise and user-centric approach to create intuitive digital interfaces. Skilled in translating client needs into functional, aesthetically pleasing designs, with a strong foundation in color theory, layout composition, and user psychology.
+    skills:
+      - label: Tools
+        details: Figma, AutoCAD, SketchUp, HTML/CSS, Javscript
+      - label: Soft skills
+        details: Wireframing, UI/UX Design Principles, Prototyping, User research, Visual Design, Usability Testing
+    education:
+      - institution: IDF Course Certificate in user experience and user design
+        area: UI/UX design
+        start_date: 2024-07
+        end_date: 2024-11
+      - institution: Inifd - Kolkata
+        area: Diploma - Interior design
+        start_date: 2012
+        end_date: 2014
+      - institution: Shri Shikshayatan College
+        area: B.Com Hons. (Accounting)
+        start_date: 2012
+        end_date: 2015
+    work experience:
+      - company: '[Livspace](https://www.livspace.com/in)'
+        position: Senior Design Associate
+        location: Bengaluru, India
+        start_date: 2019-10
+        end_date: 2023-10
+        highlights:
+          - Drove client satisfaction by leading **15+ high-value** interior design projects (up to **Rs. 2 crore each**), consistently exceeding expectations and delivering personalized living spaces.
+          - Translated complex spatial concepts into **50+ precise 2D models** using **AutoCAD** and **15+ 3D models** using **SketchUp**, enhancing communication with clients and vendors, and streamlining the design process.
+          - Conducted in-depth user research and needs analysis through client consultations, resulting in tailored design solutions that aligned with user preferences and lifestyle requirements.
+          - Collaborated cross-functionally with vendors and internal teams to deliver cohesive design solutions, improving project efficiency and execution.
+      - company: '[SIGNA Design](https://signastudio.in/)'
+        position: Senior Interior Designer
+        location: Bengaluru, India
+        start_date: 2018-07
+        end_date: 2019-10
+        highlights:
+          - Designed and developed user-centric solutions for residential and commercial spaces, honing skills in understanding and meeting diverse user needs.
+          - Led **12+ luxury** interior design projects valued at **over Rs. 3 crore**, including high-profile **show apartments** and **marketing offices** for top builders, demonstrating ability to manage complex, high-stakes projects.
+          - Created comprehensive visual design systems, including color palettes, textures, and accent suggestions across various design styles, showcasing versatility and attention to detail.
+          - Facilitated client decision-making through guided design reviews, showroom visits, and vendor meetings, effectively translating user preferences into actionable design choices.
+          - Orchestrated final project preparations, including meticulous space setup and decorative detailing for client evaluations and professional photoshoots, ensuring optimal presentation of design concepts.
+    key achievements:
+      - bullet: "**Performance excellence award**: Recognition for outstanding performance at SIGNA design"
+      - bullet: "**Runners up**: Model making of restaurant-cum-bar."
+    courses:
+      - bullet: "Data-Driven Design: Quantitative Research for UX - IxDF Course Certificate"
+      - bullet: Design for 21st century with Don Norman - IxDF Course Certificate
+      - bullet: "Design Thinking: The Ultimate Guide - IxDF Course Certificate"
+      - bullet: "User Experience: The Beginner's guide - IxDF Course Certificate"
+      - bullet: Al for Designers - IxDF Course Certificate
+      - bullet: Ul Design Patterns for successful software - IxDF Course Certificate
+      - bullet: Visual Design - The Ultimate Guide - IxDF Course Certificate
+    languages:
+      - English, Hindi, Bengali, Marwari
+design:
+  theme: engineeringresumes
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: true
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 24 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 1 cm
+      bottom: 1 cm
+      left: 1 cm
+      right: 1 cm
+    section_title:
+      top: 0.1 cm
+      bottom: 0.15 cm
+    entry_area:
+      left_and_right: 0.1 cm
+      vertical_between: 0.1 cm
+      date_and_location_width: 4.5 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.2 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.2 cm
+      bottom: 0.2 cm
+      horizontal_between_connections: 0.5 cm
