@@ -9,14 +9,14 @@ cv:
       username: chahal-mitruka-8a806117a
   sections:
     summary:
-      - Interior designer with 6 years' experience transitioning to UI/UX. Applying spatial design expertise and user-centric approach to create intuitive digital interfaces. Skilled in translating client needs into functional, aesthetically pleasing designs, with a strong foundation in color theory, layout composition, and user psychology.
+      - "**Interior designer** with 6 years' experience transitioning to **UI/UX**. Applying spatial design expertise and user-centric approach to create intuitive digital interfaces. Skilled in translating client needs into functional, aesthetically pleasing designs, with a strong foundation in color theory, layout composition, and user psychology."
     skills:
       - label: Tools
-        details: Figma, AutoCAD, SketchUp, HTML/CSS, Javscript
+        details: Figma, Adobe Photoshop, Adobe Illustrator, AutoCAD, SketchUp, HTML/CSS, Javscript
       - label: Soft skills
         details: Wireframing, UI/UX Design Principles, Prototyping, User research, Visual Design, Usability Testing
     education:
-      - institution: IDF Course Certificate in user experience and user design
+      - institution: IxDF Course Certificate in user experience and user design
         area: UI/UX design
         start_date: 2024-07
         end_date: 2024-11
